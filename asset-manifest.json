@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Aqibweatherapp/static/css/main.52a10f1e.chunk.css",
+    "main.js": "/Aqibweatherapp/static/js/main.b98ce20e.chunk.js",
+    "main.js.map": "/Aqibweatherapp/static/js/main.b98ce20e.chunk.js.map",
+    "runtime-main.js": "/Aqibweatherapp/static/js/runtime-main.e3569999.js",
+    "runtime-main.js.map": "/Aqibweatherapp/static/js/runtime-main.e3569999.js.map",
+    "static/js/2.a08c67db.chunk.js": "/Aqibweatherapp/static/js/2.a08c67db.chunk.js",
+    "static/js/2.a08c67db.chunk.js.map": "/Aqibweatherapp/static/js/2.a08c67db.chunk.js.map",
+    "index.html": "/Aqibweatherapp/index.html",
+    "static/css/main.52a10f1e.chunk.css.map": "/Aqibweatherapp/static/css/main.52a10f1e.chunk.css.map",
+    "static/js/2.a08c67db.chunk.js.LICENSE.txt": "/Aqibweatherapp/static/js/2.a08c67db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3569999.js",
+    "static/js/2.a08c67db.chunk.js",
+    "static/css/main.52a10f1e.chunk.css",
+    "static/js/main.b98ce20e.chunk.js"
+  ]
+}
